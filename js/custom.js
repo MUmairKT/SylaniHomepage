@@ -7,8 +7,5 @@ $(document).ready(function () {
         mouseleave: function () {
             $(this).removeClass('btn-primary text-white');
         }               
-    });
-    
-
+    });    
 });
-
